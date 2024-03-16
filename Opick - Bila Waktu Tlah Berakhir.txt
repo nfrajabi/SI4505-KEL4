@@ -5,7 +5,26 @@ Muhammad Fahmi Hidayat
 Sekar Wening Candra Kinanti
 Muhammad Jeisa Ganela Putra
 
+<<<<<<< HEAD
 Bila waktu tlah memanggil
 Teman sejati hanyalah amal
 Bila waktu telah terhenti
 Teman sejati tingallah sepi
+=======
+<<<<<<< HEAD
+Dunia dipenuhi dengan hiasan
+Semua dan segala yang ada akan kembali padaNya
+=======
+<<<<<<< HEAD
+Bagaimanakah bila saatnya
+Waktu terhenti tak kau sadari
+Masihkah ada jalan bagimu
+Untuk kembali mengulangkan masa lalu
+=======
+Bagaimana kau merasa bangga
+Akan dunia yg sementara
+Bagaimanakah bila semua hilang
+Dan pergi meninggalkan dirimu
+>>>>>>> 45181fd67ed29d3589f1701721838f82830bf1d9
+>>>>>>> 324ccfbaa274bc7aa5ec6c4ecfadb6da19b97cfa
+>>>>>>> ebe6c9d64eb063622c2441df1b2f22eb587c9e65
