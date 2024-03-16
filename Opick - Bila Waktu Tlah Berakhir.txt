@@ -1,0 +1,18 @@
+Naufal Arif Rajabi
+Muhammad Adam Zaidan
+Kesaf Rakhsandiaz
+Muhammad Fahmi Hidayat
+Sekar Wening Candra Kinanti
+Muhammad Jeisa Ganela Putra
+
+<<<<<<< HEAD
+Bila waktu tlah memanggil
+Teman sejati hanyalah amal
+Bila waktu telah terhenti
+Teman sejati tingallah sepi oh
+=======
+Bagaimana kau merasa bangga
+Akan dunia yg sementara
+Bagaimanakah bila semua hilang
+Dan pergi meninggalkan dirimu
+>>>>>>> 45181fd67ed29d3589f1701721838f82830bf1d9
