@@ -5,7 +5,14 @@ Muhammad Fahmi Hidayat
 Sekar Wening Candra Kinanti
 Muhammad Jeisa Ganela Putra
 
+<<<<<<< HEAD
 Bagaimanakah bila saatnya
 Waktu terhenti tak kau sadari
 Masihkah ada jalan bagimu
 Untuk kembali mengulangkan masa lalu
+=======
+Bagaimana kau merasa bangga
+Akan dunia yg sementara
+Bagaimanakah bila semua hilang
+Dan pergi meninggalkan dirimu
+>>>>>>> 45181fd67ed29d3589f1701721838f82830bf1d9
